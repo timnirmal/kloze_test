@@ -1,0 +1,19 @@
+# Python artifacts
+venv/
+__pycache__/
+
+# Local environment & config files
+.env
+.env.local
+.DS_Store
+
+# Logs & temp files
+*.log
+*.gz
+*.tgz
+.tmp
+.cache
+
+# Git & Editor files
+.idea
+.vscode
