@@ -1,6 +1,9 @@
 # Python artifacts
+.venv
 venv/
 __pycache__/
+
+kloze-462217-50b0b9fd3ca4.json
 
 # Local environment & config files
 .env
